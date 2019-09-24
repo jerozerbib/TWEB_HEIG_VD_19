@@ -4,3 +4,6 @@
 [submodule "slides"]
 	path = slides
 	url = git@github.com:tweb-classroom/slides.git
+[submodule "exos/ex2-javascript-functions-hardrick-polier-zerbib"]
+	path = exos/ex2-javascript-functions-hardrick-polier-zerbib
+	url = git@github.com:tweb-classroom/ex2-javascript-functions-hardrick-polier-zerbib.git
