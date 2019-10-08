@@ -10,3 +10,6 @@
 [submodule "exos/ex3-object-oriented-javascript-hardrick-polier-zerbib"]
 	path = exos/ex3-object-oriented-javascript-hardrick-polier-zerbib
 	url = git@github.com:tweb-classroom/ex3-object-oriented-javascript-hardrick-polier-zerbib.git
+[submodule "exos/ex4-handling-events-hardrick-polier-zerbib"]
+	path = exos/ex4-handling-events-hardrick-polier-zerbib
+	url = git@github.com:tweb-classroom/ex4-handling-events-hardrick-polier-zerbib.git
