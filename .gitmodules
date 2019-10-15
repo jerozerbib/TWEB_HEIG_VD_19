@@ -13,3 +13,6 @@
 [submodule "exos/ex4-handling-events-hardrick-polier-zerbib"]
 	path = exos/ex4-handling-events-hardrick-polier-zerbib
 	url = git@github.com:tweb-classroom/ex4-handling-events-hardrick-polier-zerbib.git
+[submodule "exos/ex5-express-form-validation-hardrick-polier-zerbib"]
+	path = exos/ex5-express-form-validation-hardrick-polier-zerbib
+	url = git@github.com:tweb-classroom/ex5-express-form-validation-hardrick-polier-zerbib.git
